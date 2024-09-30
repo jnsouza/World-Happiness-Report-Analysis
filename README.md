@@ -16,7 +16,6 @@ In this project, we:
 - **Pandas, NumPy** for data manipulation
 - **Matplotlib, Seaborn** for data visualization
 - **Scikit-learn** for machine learning models
-- **Folium** for geographical visualizations
 
 ## Dataset
 The dataset is based on the [World Happiness Report](https://worldhappiness.report/). You can download the dataset from the official website.
